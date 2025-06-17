@@ -1,0 +1,3 @@
+﻿  AISD.cpp
+C:\Projects\C++\AISD\AISD\AISD.cpp(21,1): warning C4715: convertToQuery: значение возвращается не при всех путях выполнения
+  AISD.vcxproj -> C:\Projects\C++\AISD\x64\Debug\AISD.exe
